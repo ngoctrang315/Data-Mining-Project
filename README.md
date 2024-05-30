@@ -1,3 +1,2 @@
 # Data-Mining-Project
-ARIMA
-LSTM
+Mining e-commerce business transaction data
